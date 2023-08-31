@@ -1,5 +1,5 @@
 # my-app2
 laFattura Cloud
 
-- 1.0.7
+- 1.0.9
 fixes
